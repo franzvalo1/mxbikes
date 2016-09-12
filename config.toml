@@ -1,0 +1,137 @@
+baseurl = "https://franzvalo1.github.io/mxbikes/"
+languageCode = "es-mx"
+title = "Mx Bikes Bicycle Store"
+theme = "hugo-strata-theme"
+disqusShortname = "spf13"
+# Enable Google Analytics by inserting your tracking code
+googleAnalytics = ""
+# Define how many posts should appear on a site
+paginate = 50
+
+[params]
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Francisco Hernández León"
+	description = "Venta de bicicletas en México"
+
+	# Format dates with Go's time formatting
+	date_format = "2006-01-02"
+
+	# Add custom assets with their paths relative to the static folder
+	custom_js   = []
+	custom_css  = []
+
+
+	[params.sidebar]
+		# Replace the avatar with a picture of your own under static/images
+		avatar = "avatar.jpg"
+		# Use Markdown to format the string. This works nearly all over the theme
+		bio = "**MxBikes**, un lugar muy mexicano<br> para bicis <br> [mexicanas] (www.asd.com)."
+		# The icons will be shown if you enter your username
+		twitter = "twitter.com/MxBikes"
+		facebook = "bikesmx/"
+		googleplus = ""
+		flickr = ""
+		linkedin = ""
+
+		copyright = [
+			"&copy; Francisco León",
+
+
+		]
+	[params.about]
+		hide  = false
+		title = "MxBikes"
+		content = "Somos una empresa virtual la cual busca proveer a los residentes de la CDMX opciones de compra de bicicletas a precios accesibles, esto con el fin de fomentar la movilidad y ayudar a las personas a llegar a su destino mediante un medio de transporte económico, sustentable y que ayuda a la salud; en un país en el que el 70% de sus habitantes padece algún grado de obesidad y con varias ciudades densamente pobladas urge encontrar opciones de movilidad que ayuden a la salud y acorten tiempos de traslado ."
+
+
+	[params.portfolio]
+		hide  = false
+		title = "Modelos en Venta"
+
+		# The images and thumbnails are stored under static/images
+		# Create and change subfolders as you like
+		[[params.portfolio.gallery]]
+
+			url = "En-Venta"
+			thumb = "thumbs/01.jpg"
+			title = "Bicicleta rodada 20"
+			description = "Baño de cromo, ligeros detalles, 1 año de garantía"
+
+		[[params.portfolio.gallery]]
+			image = "asd.html"
+			thumb = "thumbs/02.jpg"
+			title = "Bicicleta Monster High"
+			description = "Ligeros detalles, 1 año de garantía."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/03.jpg"
+			thumb = "thumbs/03.jpg"
+			title = "Benotto R26"
+			description = "Una sola velocidad 1 año de garantía"
+
+		[[params.portfolio.gallery]]
+			image = "fulls/04.jpg"
+			thumb = "thumbs/04.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+
+
+	[params.recentposts]
+		hide  = false
+		title = "Ultimas en venta"
+
+	[params.recentposta]
+		hide  = false
+		title = "Ultimas notas ciclistas"
+
+	[params.contact]
+		hide  = false
+		title = "Contacto"
+		content = "Puedes ponerte en contacto ya sea por medio de nuestras redes sociales (Facebook, Twitter) o bien llenando el siguiente formulario de contacto"
+
+		address = [
+			"Encuadernadores 47 - A ",
+			"Ciudad de México",
+			"México"
+		]
+		phone = "5560883519"
+
+		# Since this template is static, the contact form uses www.formspree.io as a
+		# proxy. The form makes a POST request to their servers to send the actual
+		# email. Visitors can send up to a 1000 emails each month for free.
+	    #
+	    # What you need to do for the setup?
+	    #
+	    # - set your email address under 'email' below
+	    # - upload the generated site to your server
+	    # - send a dummy email yourself to confirm your account
+	    # - click the confirm link in the email from www.formspree.io
+	    # - you're done. Happy mailing!
+		email = "paco5795305013@hotmail.com"
+
+		[params.contact.form]
+			# Set custom strings for the form if your native
+			# language isn't English
+			name = "Nombre"
+			email = "Email"
+			message = "Mensaje, No olvides describir qué producto te interesa"
+			submit = "Enviar mensaje"
+
+
+# Menu links that appear on the left sidebar
+[[menu.main]]
+	name = "Inicio"
+	url  = "/"
+	weight = 0
+
+	[[menu.main]]
+		name = "Ventas"
+		url  = "post/En-Venta"
+		weight = 1
+
+[[menu.main]]
+	name = "Blog"
+	url  = "post/"
+	weight = 10
