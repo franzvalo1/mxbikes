@@ -1,4 +1,4 @@
 [submodule "themes/hugo-strata-theme"]
 	path = themes/hugo-strata-theme
 	url = https://github.com/digitalcraftsman/hugo-strata-theme
-	branch = gh-pages
+	branch = master
