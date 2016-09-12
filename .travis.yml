@@ -1,0 +1,27 @@
+language: go
+sudo: required
+#install: go get -v github.com/spf13/hugo
+go:
+  - 1.6.3
+  - 1.7.1
+  - tip
+os:
+  - linux
+  - osx
+matrix:
+  allow_failures:
+    - go: tip
+  fast_finish: true
+script:
+  - make check
+  - go build -race
+  - ./hugo -s docs/
+  - ./hugo --renderToMemory -s docs/
+before_install:
+  - gem install asciidoctor
+  - sudo pip install docutils
+- openssl aes-256-cbc -K $encrypted_054166c723ea_key -iv $encrypted_054166c723ea_iv
+  -in id_rsa.enc -out id_rsa -d
+
+#  - cp .netrc ~
+#  - chmod 600 .netrc
