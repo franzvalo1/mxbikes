@@ -1,4 +1,4 @@
-baseurl = "https://franzvalo1.github.io/mxbikes/"
+baseurl = "https://franzvalo1.github.io/mxbikes/public/"
 languageCode = "es-mx"
 title = "Mx Bikes Bicycle Store"
 theme = "hugo-strata-theme"
