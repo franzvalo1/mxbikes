@@ -54,7 +54,7 @@ publishdir = "public"
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
 
-			url = "En-Venta"
+			url = "bicirodada20"
 			thumb = "thumbs/01.jpg"
 			title = "Bicicleta rodada 20"
 			description = "Baño de cromo, ligeros detalles, 1 año de garantía"
@@ -128,11 +128,11 @@ publishdir = "public"
 	weight = 0
 
 	[[menu.main]]
-		name = "Ventas"
-		url  = "post/En-Venta"
+		name = "Bicis en Venta"
+		url  = "post/"
 		weight = 1
 
 [[menu.main]]
-	name = "Blog"
-	url  = "post/"
+	name = "BiciTips"
+	url  = "blog/"
 	weight = 10
