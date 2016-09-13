@@ -7,6 +7,6 @@ image = "fulls/bici.jpg"
 
 +++
 
-Bicicleta Rodada
-
-asas
+Bicicleta Rodada 20.
+Con stickers de Barbie, en excelentes condiciones.<br>
+Entrega cerca del metro Morelos. <br> <strong> $800 pesos </strong>
