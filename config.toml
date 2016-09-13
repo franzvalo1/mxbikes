@@ -13,7 +13,7 @@ publishdir = "public"
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Francisco Hernández León"
-	description = "Venta de bicicletas ensss México"
+	description = "Venta de bicicletas en México"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -27,7 +27,7 @@ publishdir = "public"
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "avatar.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**MxBikes**, un lugar muy mexicano<br> para bicis <br> [mexicanas] (www.asd.com)."
+		bio = "**MxBikes**, un lugar xicano<br> para bicis <br> [mexicanas] (www.asd.com)."
 		# The icons will be shown if you enter your username
 		twitter = "twitter.com/MxBikes"
 		facebook = "bikesmx/"
