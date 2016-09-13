@@ -13,7 +13,7 @@ publishdir = "public"
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Francisco Hernández León"
-	description = "Venta de bicicletas en México"
+	description = "Venta de bicicletas ensss México"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
