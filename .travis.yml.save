@@ -1,0 +1,8 @@
+language: go
+install: go get -v github.com/
+before_install:
+- openssl aes-256-cbc -K $encrypted_054166c723ea_key -iv $encrypted_054166c723ea_iv
+  -in id_rsa.enc -out id_rsa -d
+
+  - cp .netrc ~
+  - chmod 600 .netrc
