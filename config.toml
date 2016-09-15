@@ -60,18 +60,20 @@ publishdir = "public"
 			description = "Baño de cromo, ligeros detalles, 1 año de garantía"
 
 		[[params.portfolio.gallery]]
-			image = "asd.html"
+			url="Bicicleta Monster High"
 			thumb = "thumbs/02.jpg"
 			title = "Bicicleta Monster High"
 			description = "Ligeros detalles, 1 año de garantía."
 
 		[[params.portfolio.gallery]]
+		  url="bennotto26"
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
 			title = "Benotto R26"
 			description = "Una sola velocidad 1 año de garantía"
 
 		[[params.portfolio.gallery]]
+			url="cromada28"
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
 			title = "Lorem ipsum dolor."
