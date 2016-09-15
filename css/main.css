@@ -3173,3 +3173,104 @@
 				 font-size: 20px;
 				 line-height: 36px;
 			 }
+
+
+			 /* Drop the share links in the space to the right.
+			    Doing it like this means it's easier for the author bio
+			    to be flexible at smaller screen sizes while the share
+			    links remain at a fixed width the whole time */
+			 
+
+			 .share a {
+			     font-size: 1.8rem;
+			     display: inline-block;
+			     margin: 1rem 1.6rem 1.6rem 0;
+			     color: #425157;
+			     text-decoration: none;
+			 }
+
+			  .share a:hover {
+			     color: #50585D;
+			 }
+
+
+			 .main-header a.bloglogo {
+			     text-decoration: none;
+			 }
+
+
+			 /* ==========================================================================
+			    1. Icons - Sets up the icon font and respective classes
+			    ========================================================================== */
+
+			 /* Import the font file with the icons in it */
+			 @font-face {
+			   font-family: 'genericons';
+			   src: url('../fonts/Genericons.eot');
+			   src: url('../fonts/Genericons.eot?#iefix') format('embedded-opentype'),
+			        url('../fonts/Genericons.woff') format('woff'),
+			        url('../fonts/Genericons.ttf') format('truetype'),
+			        url('../fonts/Genericons.svg#entypo') format('svg');
+			   font-weight: normal; font-style: normal;
+			 }
+
+			 /* Apply these base styles to all icons */
+			 [class^="icon-"]:before, [class*=" icon-"]:before {
+			     font-family: "genericons", "Open Sans", sans-serif;
+			     speak: none;
+			     font-style: normal;
+			     font-weight: normal;
+			     font-variant: normal;
+			     text-transform: none;
+			     line-height: 1;
+			     text-decoration: none !important;
+			     -webkit-font-smoothing: antialiased;
+			     -moz-osx-font-smoothing: grayscale;
+			 }
+
+			 /* Each icon is created by inserting the correct character into the
+			    content of the :before pseudo element. Like a boss. */
+			 .icon-github:before {
+			     content: "\f200";
+			 }
+
+			 .icon-hugo:before{
+			     content:"\f216";
+			 }
+
+			 .icon-ghost:before {
+			     content: "\f100";
+			 }
+			 .icon-feed:before {
+			     content: "\f413";
+			 }
+			 .icon-twitter:before {
+			     content: "\f202";
+			 }
+			 .icon-google-plus:before {
+			     content: "\f206";
+			 }
+			 .icon-facebook:before {
+			     content: "\f203";
+			 }
+			 .icon-instagram:before {
+			     content: "\f215";
+			 }
+			 .icon-pinterest:before {
+			     content: "\f210";
+			 }
+			 .icon-linkedin:before {
+			     content: "\f208";
+			 }
+			 .icon-arrow-left:before {
+			     content: "\f431";
+			 }
+			 .icon-stats:before {
+			     content: "\f508";
+			 }
+			 .icon-location:before {
+			     content: "\f417";
+			 }
+			 .icon-link:before {
+			     content: "\f442";
+			 }
