@@ -12,5 +12,4 @@ Bicicleta Rodada 28.
 Impecables condiciones.
 
 Nueva totalmente. Cromada, Rodada 28. Frenos de varilla
-
-Entrega cerca del metro Morelos. <br> <strong> $4000 pesos </strong>
+ <br> <strong> $4000 pesos </strong>

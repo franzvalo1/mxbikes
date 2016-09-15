@@ -1,27 +1,24 @@
 +++
-banner = "banners/placeholder.png"
-categories = ["Ipsum"]
+banner = "../images/bici.jpg"
+categories = ["Reparación de bicicletas"]
 date = "2015-09-17T13:47:08+02:00"
 menu = ""
 tags = []
-title = "Colocar masa de centro"
+title = "Colocar Taza de Centro para eje redondo"
+image="fulls/2014-01-07 16.30.51.jpg"
 +++
 
-Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in go templates.
+Hola, bienvenido al primer post de nuestro blog de reparación de bicicletas en MxBikes!
 
-This document is a brief primer on using go templates. The [go docs][gohtmltemplate]
-provide more details.
+A continuación te enseñaremos cómo colocar una taza de centro.
 
-## Introduction to Go Templates
 
-Go templates provide an extremely simple template language. It adheres to the
-belief that only the most basic of logic belongs in the template or view layer.
-One consequence of this simplicity is that go templates parse very quickly.
+
+## Materiales
+
+1 . Taza de Centro
+
+2.
 
 A unique characteristic of go templates is they are content aware. Variables and
 content will be sanitized depending on the context of where they are used. More
