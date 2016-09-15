@@ -211,11 +211,17 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
 
 &lt;p&gt;1 . Taza de Centro&lt;/p&gt;
 
-&lt;p&gt;2.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Pinzas de presión o en su defecto una llave stillson puede ser de utilidad, esto es en caso de que no tengas la herramienta especial para tal propósito.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;A unique characteristic of go templates is they are content aware. Variables and
-content will be sanitized depending on the context of where they are used. More
-details can be found in the &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;go docs&lt;/a&gt;.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Llave de 10 mm.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Grasa para baleros&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Eje de centro redondo&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Un poco de paciencia.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h2 id=&#34;basic-syntax&#34;&gt;Basic Syntax&lt;/h2&gt;
 
