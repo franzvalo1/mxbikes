@@ -18,11 +18,15 @@ A continuación te enseñaremos cómo colocar una taza de centro.
 
 1 . Taza de Centro
 
-2.
+2. Pinzas de presión o en su defecto una llave stillson puede ser de utilidad, esto es en caso de que no tengas la herramienta especial para tal propósito.
 
-A unique characteristic of go templates is they are content aware. Variables and
-content will be sanitized depending on the context of where they are used. More
-details can be found in the [go docs][gohtmltemplate].
+3. Llave de 10 mm.
+
+4. Grasa para baleros
+
+5. Eje de centro redondo
+
+6. Un poco de paciencia.
 
 ## Basic Syntax
 
