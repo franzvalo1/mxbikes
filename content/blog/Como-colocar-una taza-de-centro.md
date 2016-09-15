@@ -28,7 +28,14 @@ A continuación te enseñaremos cómo colocar una taza de centro.
 
 6. Un poco de paciencia.
 
-## Basic Syntax
+## Comencemos
+
+![alternate text](https://franzvalo1.github.io/mxbikes/images/fulls/2014-01-07%2016.30.51.jpg class="image fit")
+
+<img src="https://franzvalo1.github.io/mxbikes/images/fulls/2014-01-07%2016.30.51.jpg" class="image fit">
+
+ {{ .image }}
+
 
 Go lang templates are html files with the addition of variables and
 functions.
