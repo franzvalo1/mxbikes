@@ -1,22 +1,20 @@
 +++
 banner = "../images/bici.jpg"
-categories = ["Reparación de bicicletas"]
+categories = ["Experiencias de vida"]
 date = "2015-09-17T13:47:08+02:00"
 menu = ""
 tags = []
-title = "Colocar Taza de Centro y Estrella para eje redondo"
-image="fulls/2014-01-07 16.30.51.jpg"
+title = "Beneficios de andar en bicicleta"
+image="fulls/bike.jpg"
 +++
 
-Hola, bienvenido al primer post de nuestro blog de reparación de bicicletas en MxBikes!
+Hola, te presentamos 13 razones por las que andar en bicicleta te puede ayudar a ti y a los tuyos.
 
-A continuación te enseñaremos cómo colocar una taza de centro.
-
-## Materiales
+##
 
 1 . Taza de Centro
 
-<img src="https://franzvalo1.github.io/mxbikes/images/fulls/2014-01-07 15.58.13.jpg" class="image fit">
+<img src="https://franzvalo1.github.io/mxbikes/images/fulls/beneficios-bicicleta.jpg" class="image fit">
 
 2. Pinzas de presión o en su defecto una llave stillson puede ser de utilidad, esto es en caso de que no tengas la herramienta especial para tal propósito.
 
