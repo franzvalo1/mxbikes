@@ -48,15 +48,6 @@ Impecables condiciones.&lt;/p&gt;
     </item>
     
     <item>
-      <title>blog</title>
-      <link>https://franzvalo1.github.io/mxbikes/blog/blog/</link>
-      <pubDate>Sun, 11 Sep 2016 00:52:06 -0500</pubDate>
-      
-      <guid>https://franzvalo1.github.io/mxbikes/blog/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bicicleta Monster High</title>
       <link>https://franzvalo1.github.io/mxbikes/post/Bicicleta%20Monster%20High/</link>
       <pubDate>Sat, 10 Sep 2016 20:22:24 -0500</pubDate>
@@ -270,7 +261,103 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     </item>
     
     <item>
-      <title>Colocar Taza de Centro para eje redondo</title>
+      <title>Beneficios de andar en bicicleta</title>
+      <link>https://franzvalo1.github.io/mxbikes/blog/Beneficios-Andar-Bicicleta/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://franzvalo1.github.io/mxbikes/blog/Beneficios-Andar-Bicicleta/</guid>
+      <description>
+
+&lt;p&gt;Hola, te presentamos 13 razones por las que andar en bicicleta te puede ayudar a ti y a los tuyos.&lt;/p&gt;
+
+&lt;p&gt;##&lt;/p&gt;
+
+&lt;p&gt;1 . Taza de Centro&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://franzvalo1.github.io/mxbikes/images/fulls/beneficios-bicicleta.jpg&#34; class=&#34;image fit&#34;&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Pinzas de presión o en su defecto una llave stillson puede ser de utilidad, esto es en caso de que no tengas la herramienta especial para tal propósito.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Llave de 10 mm.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Grasa para baleros&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Eje de centro redondo&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://franzvalo1.github.io/mxbikes/images/fulls/2014-01-07 15.58.24.jpg&#34; class=&#34;image fit&#34;&gt;
+6. Un poco de paciencia.&lt;/p&gt;
+
+&lt;h2 id=&#34;comencemos&#34;&gt;Comencemos&lt;/h2&gt;
+
+&lt;p&gt;Lo primero que necesitamos es nuestro cuadro de bicicleta sin taza de centro.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://franzvalo1.github.io/mxbikes/images/fulls/2014-01-07 15.57.51.jpg&#34; class=&#34;image fit&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Posteriormente requerimos engrasar los baleros de las tazas (no olvides ponerle suficiente grasa) Tanto a los baleros como a la cavidad donde estos girarán deben tener grasa, ambos baleros ban engrasados.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://franzvalo1.github.io/mxbikes/images/fulls/2014-01-07 16.06.15.jpg&#34; class=&#34;image fit&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Una vez engrasados los baleros requerimos colocar la primera taza, la enroscamos del lado derecho ya que de ese lado es en el que irá la estrella de la bicicleta, este lado debe quedar lo mas apretado posible a la cuerda del centro de la bicicleta. Puedes ayudarte de la llave stillson para hacer tu trabajo mas sencillo.
+Debe quedar de la siguiente forma:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://franzvalo1.github.io/mxbikes/images/fulls/2014-01-07 15.58.01.jpg&#34; class=&#34;image fit&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;{{ No olvides que va del lado derecho }}&lt;/p&gt;
+
+&lt;p&gt;Una vez colocada dicho lado, es necesario introducir el eje de centro (en este caso es uno redondo ya que la estrella y biela que ocupamos es del mismo estilo)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://franzvalo1.github.io/mxbikes/images/fulls/2014-01-07 15.58.36.jpg&#34; class=&#34;image fit&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Lo introducimos de la siguiente forma:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://franzvalo1.github.io/mxbikes/images/fulls/2014-01-07 16.06.22.jpg&#34; class=&#34;image fit&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Una vez dentro el eje de centro, procedemos a insertar la taza del lado izquierdo, no olvides colocar los baleros dentro de la taza.&lt;/p&gt;
+
+&lt;p&gt;De esta forma:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://franzvalo1.github.io/mxbikes/images/fulls/2014-01-07 16.06.31.jpg&#34; class=&#34;image fit&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;importante&#34;&gt;Importante&lt;/h2&gt;
+
+&lt;p&gt;** No debes apretar la tuerca que se introduce en el cuadro del  eje de centro al máximo, el punto adecuado es en donde el eje pueda girar libremente pero que no tenga ningún movimiento extra, con esto me refiero a que no haga lo que se le conoce cotidianamente como &amp;ldquo;baile&amp;rdquo;, debe girar libremente y no debe de tronar al girar con los baleros, de ser así sólamente afloja la tuerca y debe de moverse con facilidad. **&lt;/p&gt;
+
+&lt;p&gt;Una vez fija esta tuerca es necesaria poner la segunda tuerca que se asegurará de que quede fijo el eje de centro y con el movimiento de la bicicleta no se mueva el eje. Esta pieza gira sobre la primera tuerca que tiene cuerda para que pueda ser fijada la segunda tuerca, puedes apretar la tuerca con una herramienta especial o bien puedes utilizar un desarmador y dar unos ligeros golpes hasta que quede fijo el sistema. (en caso de que no tengas la herramienta apropiada).&lt;/p&gt;
+
+&lt;h2 id=&#34;colocando-la-estrella&#34;&gt;Colocando la estrella.&lt;/h2&gt;
+
+&lt;p&gt;Una vez listo el eje de centro, colocaremos la estrella, recordemos que esta va del lado derecho. Requeriremos un par de pernos para fijar las bielas al eje de centro, este sistema sólo se emplea en bicicletas con eje de centro redondo, cambia el sistema si tienes un eje de centro cuadrado.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://franzvalo1.github.io/mxbikes/images/fulls/2014-01-07 16.14.03.jpg&#34; class=&#34;image fit&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Puedes colocar primero la biela derecha (por costumbre asi lo hago yo) pero igual puedes comenzar colocando la estrella, el resultado es equivalente.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://franzvalo1.github.io/mxbikes/images/fulls/2014-01-07 16.15.33.jpg&#34; class=&#34;image fit&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Biela en el eje izquierdo.&lt;/p&gt;
+
+&lt;p&gt;Ahora colocamos la estrella (que viene con su biela soldada) (lado derecho)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://franzvalo1.github.io/mxbikes/images/fulls/2014-01-07 16.18.13.jpg&#34; class=&#34;image fit&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Y colocamos los pernos de los que hablabla al inicio, podemos ayudarnos de un martillo para que deslicen hasta su posicion final a cada lado de la biela ya que algunas veces vienen un poco duros y puede ser difícil. Utilizaremos la llave de 10mm para girar la tuerca que fija a los pernos del lado que sale la cuerda del perno en cada biela.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://franzvalo1.github.io/mxbikes/images/fulls/2014-01-07 16.28.03.jpg&#34; class=&#34;image fit&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Y queda de ésta forma.&lt;/p&gt;
+
+&lt;p&gt;Corroboramos que gire adecuadamente el sistema, que no haya ningun tronido o rechinido y que la estrella gire armónicamente al eje de centro sin movimientos fuera de su rotación esperada.&lt;/p&gt;
+
+&lt;p&gt;Y a girar!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://franzvalo1.github.io/mxbikes/images/fulls/2014-01-07 16.27.39.jpg&#34; class=&#34;image fit&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Colocar Taza de Centro y Estrella para eje redondo</title>
       <link>https://franzvalo1.github.io/mxbikes/blog/Como-colocar-una%20taza-de-centro/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
