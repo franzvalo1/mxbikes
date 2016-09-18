@@ -20,9 +20,13 @@ Tu cuerpo segrega hormonas que te hacen sentir mejor.
 
 Con el ejercicio del pedaleo, se reduce un 50% la probabilidad de sufrir uno, el ritmo cardiaco máximo aumenta y la presion arterial disminuye.
 
+<img src="https://franzvalo1.github.io/mxbikes/images/fulls/heartstroke.png" class="image fit">
+
 ## 3. Estimula tus músculos
 
 Estimula los pequeños músculos de las vértebras dorsales (músculos que cuesta mucho hacer trabajar con cualquier otro deporte).
+
+<img src="https://franzvalo1.github.io/mxbikes/images/fulls/musclebike.png" class="image fit">
 
 ## 4. Piensa mejor
 
