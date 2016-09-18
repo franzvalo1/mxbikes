@@ -27,7 +27,7 @@ publishdir = "public"
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "avatar.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**MxBikes**, un lugar muy mexicano<br> para bicis <br> [mexicanas] (franzvalo1.github.io/mxbikes)."
+		bio = "<a href='/'>**MxBikes** </a>, un lugar muy mexicano<br> para bicis <br> [mexicanas] (franzvalo1.github.io/mxbikes)."
 		# The icons will be shown if you enter your username
 		twitter = "twitter.com/MxBikes"
 		facebook = "bikesmx/"
@@ -124,10 +124,10 @@ publishdir = "public"
 
 
 # Menu links that appear on the left sidebar
-[[menu.main]]
-	name = "Inicio"
-	url  = "/"
-	weight = 0
+#[[menu.main]]
+	#name = "Inicio"
+	#url  = "/"
+	#weight = 0
 
 	[[menu.main]]
 		name = "Bicis en Venta"
@@ -135,6 +135,11 @@ publishdir = "public"
 		weight = 1
 
 [[menu.main]]
-	name = "BiciTips"
+	name = "BiciBlog"
 	url  = "blog/"
-	weight = 10
+	weight = 2
+
+	[[menu.main]]
+		name = "Acerca de"
+		url  = "acercade/"
+		weight = 3
