@@ -32,18 +32,25 @@ Estimula los pequeños músculos de las vértebras dorsales (músculos que cuest
 
 El cerebro se oxigeno más y te permite pensar con más facilidad.
 
+<img src="https://franzvalo1.github.io/mxbikes/images/fulls/philosophy.jpg" class="image fit">
+
 ## 5. Protege tus articulaciones
 
 Con la bicicleta las rodillas funcionan protegidas. ya que del 70% al 80% del peso de tu cuerpo se mantiene sobre el asiento.
 
-## 6. Baja el colesteros
+<img src="https://franzvalo1.github.io/mxbikes/images/fulls/biking-pain.jpg" class="image fit">
+
+## 6. Baja el colesterol
 
 Los vasos sanguíneos se mantienen flexibles y saludables cuando tus piernas se mueven cada día
+
+<img src="https://franzvalo1.github.io/mxbikes/images/fulls/cholesterol.jpg" class="image fit">
 
 ## 7. Se feliz
 
 Tu cuerpo genera endorfina: que son los llamados hormonas de la felicidad
 
+<img src="https://franzvalo1.github.io/mxbikes/images/fulls/franzbike.JPG" class="image fit">
 
 ## 8. Fortalece la zona lumbar
 
