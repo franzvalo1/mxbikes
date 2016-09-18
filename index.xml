@@ -280,9 +280,13 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
 
 &lt;p&gt;Con el ejercicio del pedaleo, se reduce un 50% la probabilidad de sufrir uno, el ritmo cardiaco máximo aumenta y la presion arterial disminuye.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&#34;https://franzvalo1.github.io/mxbikes/images/fulls/heartstroke.png&#34; class=&#34;image fit&#34;&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;3-estimula-tus-músculos&#34;&gt;3. Estimula tus músculos&lt;/h2&gt;
 
 &lt;p&gt;Estimula los pequeños músculos de las vértebras dorsales (músculos que cuesta mucho hacer trabajar con cualquier otro deporte).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://franzvalo1.github.io/mxbikes/images/fulls/musclebike.png&#34; class=&#34;image fit&#34;&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;4-piensa-mejor&#34;&gt;4. Piensa mejor&lt;/h2&gt;
 
