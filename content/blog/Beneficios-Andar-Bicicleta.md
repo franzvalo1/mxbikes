@@ -56,22 +56,25 @@ Tu cuerpo genera endorfina: que son los llamados hormonas de la felicidad
 
 Gracias a los movimientos regulares de las piernas
 
+<img src="https://franzvalo1.github.io/mxbikes/images/fulls/cyclingposture.png" class="image fit">
+
 ## 9. Evita Dolores
 
 Muchos dobres de espalda son por causa de le inactividad, se reduce la nutrición de las discos y van perdiendo su capacidad de amortiguar los impactos.
 
-
+<img src="https://franzvalo1.github.io/mxbikes/images/fulls/happinesscycling.jpg" class="image fit">
 ## 10. Anticuerpo contra el cancer.
 
 Cado vez que andas en bicicleta estás dándole un impulso a la potencia de tu sistema inmunológico. Las células "come bacterias" del cuerpo, los fagocitos, se movilizan de forma inmediata gracias al pedaleo para aniquilar bacterias y células cancerígenas. Esto es lo razón por lo que a los enfermos de cáncer y SIDA se les recomienda ir en bicicleta.
-
+<img src="https://franzvalo1.github.io/mxbikes/images/fulls/fuckcancer.jpg" class="image fit">
 ## 11. La mejor opción
 
 En la bici las articulaciones ni los cartílagos soportan cargas elevadas.
-
+<img src="https://franzvalo1.github.io/mxbikes/images/fulls/sunsetbike.jpg" class="image fit">
 ## 12. Corrige tu postura
 
 Con la postura correcta. el torso ligeramente inclinado adelante, la musculatura de la espalda está bajo tensión se ve obligada a estabilizar el tronco.
+<img src="https://franzvalo1.github.io/mxbikes/images/fulls/cycling-posture.jpg" class="image fit">
 
 A continuación les dejamos una imagen que ilustra todas estas ventajas, no encontramos al autor original, pero ¡gracias!.
 
