@@ -85,10 +85,10 @@ Detalle: tiene un poco maltratado el asiento. Se puede cambiar sin problema.&lt;
     
     <item>
       <title>Migrate from Jekyll</title>
-      <link>https://franzvalo1.github.io/mxbikes/blog/migrate-from-jekyll/</link>
+      <link>https://franzvalo1.github.io/mxbikes/migrate-from-jekyll/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://franzvalo1.github.io/mxbikes/blog/migrate-from-jekyll/</guid>
+      <guid>https://franzvalo1.github.io/mxbikes/migrate-from-jekyll/</guid>
       <description>
 
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
@@ -445,10 +445,10 @@ Debe quedar de la siguiente forma:&lt;/p&gt;
     
     <item>
       <title>Go is for lovers</title>
-      <link>https://franzvalo1.github.io/mxbikes/blog/go-is-for-lovers/</link>
+      <link>https://franzvalo1.github.io/mxbikes/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://franzvalo1.github.io/mxbikes/blog/go-is-for-lovers/</guid>
+      <guid>https://franzvalo1.github.io/mxbikes/go-is-for-lovers/</guid>
       <description>
 
 &lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
@@ -791,10 +791,10 @@ so, such as in this example:&lt;/p&gt;
     
     <item>
       <title>Hugo is for lovers</title>
-      <link>https://franzvalo1.github.io/mxbikes/blog/hugo-is-for-lovers/</link>
+      <link>https://franzvalo1.github.io/mxbikes/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://franzvalo1.github.io/mxbikes/blog/hugo-is-for-lovers/</guid>
+      <guid>https://franzvalo1.github.io/mxbikes/hugo-is-for-lovers/</guid>
       <description>
 
 &lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
@@ -878,10 +878,10 @@ Having nearly instant feedback enables you to have your creativity flow without 
     
     <item>
       <title>Creating a new theme</title>
-      <link>https://franzvalo1.github.io/mxbikes/blog/creating-a-new-theme/</link>
+      <link>https://franzvalo1.github.io/mxbikes/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://franzvalo1.github.io/mxbikes/blog/creating-a-new-theme/</guid>
+      <guid>https://franzvalo1.github.io/mxbikes/creating-a-new-theme/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
