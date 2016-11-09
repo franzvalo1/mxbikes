@@ -47,7 +47,7 @@ paginate = 50
 
 	[params.portfolio]
 		hide  = false
-		title = "Modelos en Venta"
+		title = "Outlet de bicicletas en venta"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like

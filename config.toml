@@ -48,7 +48,7 @@ publishdir = "public"
 
 	[params.portfolio]
 		hide  = false
-		title = "Modelos en Venta"
+		title = "Outlet bicicletas"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
@@ -130,7 +130,7 @@ publishdir = "public"
 	#weight = 0
 
 	[[menu.main]]
-		name = "Bicis en Venta"
+		name = "Outlet bicicletas"
 		url  = "post/"
 		weight = 1
 
